@@ -4,6 +4,18 @@ This project is a **Streamlit**-based interactive dashboard that visualizes and 
 
 It uses **Named Entity Recognition (NER)**, network analysis, and visualizations to provide insights into CVEs, severity levels, affected operating systems, attack vectors, software vulnerabilities, and relationships between entities.
 
+
+
+---
+
+## 🚀 Authors
+
+- Ananya Verma
+- [Manav Khambhayata](https://github.com/ManavKhambhayata)
+- Aniruddha Singh
+- Smarak Patnaik
+- Kanha Tayal
+  
 ---
 
 ## 📑 Features

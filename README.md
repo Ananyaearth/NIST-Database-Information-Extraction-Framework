@@ -34,7 +34,7 @@ NIST-Database-Information-Extraction-Framework/
 ## 🌐 Live Demo
 
 This project is also deployed on **Streamlit Cloud**:  
-🔗 [Live App Link]([https://share.streamlit.io/your-username/NLP_Cybersecurity_Dashboard/main/dashboard.py](https://nist-database-information-extraction-framework.streamlit.app/))
+🔗 [Live App Link](https://nist-database-information-extraction-framework.streamlit.app/)
 
 ---
 

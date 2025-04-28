@@ -14,7 +14,7 @@ It uses **Named Entity Recognition (NER)**, network analysis, and visualizations
 - [Manav Khambhayata](https://github.com/ManavKhambhayata)
 - [Aniruddha Singh]()
 - [Smarak Patnaik]()
-- [Kanha Tayal]()
+- [Kanha Tayal](https://github.com/Kanhatayal)
   
 ---
 

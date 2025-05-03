@@ -23,7 +23,7 @@ It uses **Named Entity Recognition (NER)**, network analysis, and visualizations
 - 📊 **CVSS Score Analysis**: Interactive histogram and scatter plots of vulnerabilities based on severity.
 - 🛡️ **Attack Vector Analysis**: Visual breakdown of attack vectors and user interaction dependencies.
 - 💻 **Affected OS Analysis**: Bar and pie charts showcasing vulnerabilities across operating systems and OS families.
-- 🔍 **Vulnerability Details Analysis**: Analysis of vulnerability types and commonly affected software.
+- 🔍 **Vulnerability Details Analysis**: Analysis of different vulnerability types and commonly affected software.
 - ☁️ **Word Cloud**: Visual summary of frequently affected software.
 - 🕸️ **Dependency Graph**: Interactive graph showing relationships between vulnerabilities, operating systems, and software.
 - 🧩 **Detailed Vulnerability View**: Select a CVE ID to view its complete metadata and properties.
